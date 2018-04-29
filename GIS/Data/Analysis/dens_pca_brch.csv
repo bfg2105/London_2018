@@ -1,0 +1,650 @@
+dens_pca_brch_cluster,Ward,GSS
+2,Chessington South,E05000405
+4,Tolworth and Hook Rise,E05000414
+1,Berrylands,E05000401
+2,Alexandra,E05000400
+2,Beverley,E05000402
+2,Coombe Hill,E05000406
+1,Chessington North and Hook,E05000404
+1,Surbiton Hill,E05000413
+4,Old Malden,E05000410
+1,St. Mark's,E05000412
+3,Grove,E05000408
+3,Canbury,E05000403
+4,Norbiton,E05000409
+1,Coombe Vale,E05000407
+4,St. James,E05000411
+1,Tudor,E05000415
+2,Coulsdon East,E05000150
+2,Selsdon and Ballards,E05000162
+4,Coulsdon West,E05000151
+4,Waddon,E05000167
+2,Kenley,E05000156
+4,Purley,E05000159
+2,Sanderstead,E05000160
+2,Heathfield,E05000155
+4,Fairfield,E05000153
+4,Broad Green,E05000149
+4,West Thornton,E05000168
+4,Bensham Manor,E05000148
+4,Norbury,E05000158
+4,New Addington,E05000157
+4,Croham,E05000152
+4,Fieldway,E05000154
+4,Shirley,E05000163
+4,Selhurst,E05000161
+4,Ashburton,E05000147
+4,Woodside,E05000169
+4,Thornton Heath,E05000165
+4,Upper Norwood,E05000166
+4,South Norwood,E05000164
+4,Addiscombe,E05000146
+2,Darwin,E05000117
+2,Hayes and Coney Hall,E05000119
+2,Bromley Common and Keston,E05000108
+2,Chelsfield and Pratts Bottom,E05000110
+2,Biggin Hill,E05000107
+4,West Wickham,E05000127
+4,Clock House,E05000112
+4,Kelsey and Eden Park,E05000120
+2,Farnborough and Crofton,E05000118
+4,Shortlands,E05000126
+4,Bromley Town,E05000109
+4,Bickley,E05000106
+4,Petts Wood and Knoll,E05000124
+4,Crystal Palace,E05000116
+4,Penge and Cator,E05000123
+4,Copers Cope,E05000113
+4,Plaistow and Sundridge,E05000125
+2,Chislehurst,E05000111
+4,Mottingham and Chislehurst North,E05000121
+4,Orpington,E05000122
+4,Cray Valley West,E05000115
+2,Cray Valley East,E05000114
+2,Bedfont,E05000346
+4,Hanworth,E05000353
+3,Cranford,E05000350
+4,Syon,E05000364
+4,Heston West,E05000357
+4,Heston East,E05000356
+2,Osterley and Spring Grove,E05000363
+3,Brentford,E05000347
+4,Chiswick Homefields,E05000348
+4,Feltham West,E05000352
+4,Hanworth Park,E05000354
+4,Feltham North,E05000351
+4,Hounslow Heath,E05000359
+1,Hounslow West,E05000361
+4,Heston Central,E05000355
+1,Hounslow South,E05000360
+4,Isleworth,E05000362
+4,Hounslow Central,E05000358
+4,Chiswick Riverside,E05000349
+3,Turnham Green,E05000365
+4,Norwood Green,E05000186
+3,Southall Green,E05000190
+4,Northolt West End,E05000185
+4,Dormers Wells,E05000172
+4,Greenford Broadway,E05000177
+4,North Greenford,E05000183
+4,Northfield,E05000182
+4,East Acton,E05000175
+4,Southall Broadway,E05000189
+4,Elthorne,E05000176
+1,Walpole,E05000192
+0,Lady Margaret,E05000181
+4,Northolt Mandeville,E05000184
+4,Hobbayne,E05000180
+4,Cleveland,E05000171
+4,Greenford Green,E05000178
+4,Perivale,E05000187
+4,Ealing Common,E05000174
+4,Ealing Broadway,E05000173
+4,South Acton,E05000188
+3,Southfield,E05000191
+4,Acton Central,E05000170
+4,Hanger Hill,E05000179
+2,Upminster,E05000323
+2,Rainham and Wennington,E05000318
+2,South Hornchurch,E05000321
+4,Elm Park,E05000308
+2,Brooklands,E05000306
+4,Romford Town,E05000319
+4,Mawneys,E05000316
+4,Pettits,E05000317
+4,Hacton,E05000311
+4,St. Andrew's,E05000320
+2,Emerson Park,E05000309
+4,Squirrel's Heath,E05000322
+2,Harold Wood,E05000312
+2,Cranham,E05000307
+2,Havering Park,E05000313
+4,Heaton,E05000314
+2,Gooshays,E05000310
+4,Hylands,E05000315
+2,Heathrow Villages,E05000331
+2,Harefield,E05000330
+4,West Drayton,E05000342
+4,Yiewsley,E05000345
+4,Uxbridge South,E05000341
+2,Brunel,E05000326
+4,Uxbridge North,E05000340
+4,Hillingdon East,E05000332
+2,Ickenham,E05000333
+4,West Ruislip,E05000343
+2,Northwood,E05000335
+2,South Ruislip,E05000338
+1,Manor,E05000334
+2,Eastcote and East Ruislip,E05000329
+4,Northwood Hills,E05000336
+4,Pinkwell,E05000337
+2,Botwell,E05000325
+2,Charville,E05000328
+4,Townfield,E05000339
+3,Barnhill,E05000324
+4,Yeading,E05000344
+1,Cavendish,E05000327
+4,Roxeth,E05000302
+4,Harrow on the Hill,E05000289
+4,Pinner,E05000297
+4,Pinner South,E05000298
+3,Greenhill,E05000288
+4,Headstone North,E05000292
+4,Marlborough,E05000296
+2,Harrow Weald,E05000290
+4,Stanmore Park,E05000303
+2,Canons,E05000286
+3,Rayners Lane,E05000300
+3,Roxbourne,E05000301
+4,West Harrow,E05000305
+4,Hatch End,E05000291
+4,Headstone South,E05000293
+4,Kenton West,E05000295
+1,Wealdstone,E05000304
+4,Belmont,E05000285
+1,Kenton East,E05000294
+4,Queensbury,E05000299
+1,Edgware,E05000287
+4,Northwick Park,E05000096
+4,Wembley Central,E05000104
+4,Preston,E05000097
+4,Stonebridge,E05000100
+4,Welsh Harp,E05000103
+4,Barnhill,E05000086
+4,Fryent,E05000090
+4,Sudbury,E05000101
+4,Alperton,E05000085
+4,Kensal Green,E05000092
+4,Harlesden,E05000091
+4,Willesden Green,E05000105
+4,Queens Park,E05000098
+4,Brondesbury Park,E05000087
+4,Kilburn,E05000094
+4,Tokyngton,E05000102
+4,Kenton,E05000093
+4,Dudden Hill,E05000089
+4,Dollis Hill,E05000088
+4,Mapesbury,E05000095
+4,Queensbury,E05000099
+2,Underhill,E05000060
+2,High Barnet,E05000056
+4,West Hendon,E05000062
+4,Golders Green,E05000053
+4,Colindale,E05000046
+4,Childs Hill,E05000045
+4,Garden Suburb,E05000052
+4,Finchley Church End,E05000051
+4,East Finchley,E05000049
+4,Edgware,E05000050
+2,Mill Hill,E05000057
+4,Hale,E05000054
+2,Totteridge,E05000059
+4,Oakleigh,E05000058
+4,Woodhouse,E05000063
+4,Coppetts,E05000047
+4,Brunswick Park,E05000043
+4,East Barnet,E05000048
+4,Burnt Oak,E05000044
+4,Hendon,E05000055
+4,West Finchley,E05000061
+1,Streatham South,E05000431
+1,St. Leonard's,E05000428
+1,Streatham Wells,E05000432
+1,Knight's Hill,E05000424
+1,Thornton,E05000433
+1,Streatham Hill,E05000430
+3,Clapham Common,E05000418
+3,Brixton Hill,E05000417
+3,Tulse Hill,E05000435
+3,Coldharbour,E05000420
+3,Ferndale,E05000421
+1,Larkhall,E05000425
+3,Oval,E05000426
+1,Vassall,E05000436
+1,Gipsy Hill,E05000422
+1,Thurlow Park,E05000434
+1,Herne Hill,E05000423
+3,Bishop's,E05000416
+3,Clapham Town,E05000419
+1,Stockwell,E05000429
+3,Prince's,E05000427
+1,College,E05000538
+1,Riverside,E05000548
+1,Village,E05000554
+1,South Camberwell,E05000551
+1,East Dulwich,E05000539
+1,Peckham Rye,E05000547
+1,Camberwell Green,E05000535
+1,Brunswick Park,E05000534
+1,The Lane,E05000553
+1,Nunhead,E05000545
+1,Peckham,E05000546
+1,Newington,E05000544
+1,Faraday,E05000541
+1,East Walworth,E05000540
+1,Livesey,E05000543
+1,South Bermondsey,E05000550
+3,Cathedrals,E05000536
+1,Grange,E05000542
+1,Rotherhithe,E05000549
+1,Surrey Docks,E05000552
+3,Chaucer,E05000537
+1,Bellingham,E05000437
+1,Telegraph Hill,E05000453
+1,Downham,E05000442
+1,Whitefoot,E05000454
+1,Blackheath,E05000438
+1,Sydenham,E05000452
+1,Forest Hill,E05000444
+1,Perry Vale,E05000450
+1,Rushey Green,E05000451
+1,Catford South,E05000440
+1,Crofton Park,E05000441
+1,Ladywell,E05000446
+1,Lewisham Central,E05000448
+1,Brockley,E05000439
+1,New Cross,E05000449
+1,Grove Park,E05000445
+1,Lee Green,E05000447
+1,Evelyn,E05000443
+4,Middle Park and Sutcliffe,E05000224
+4,Coldharbour and New Eltham,E05000217
+2,Eltham South,E05000219
+4,Shooters Hill,E05000227
+4,Peninsula,E05000225
+4,Woolwich Riverside,E05000230
+4,Greenwich West,E05000222
+4,Eltham West,E05000220
+4,Blackheath Westcombe,E05000215
+4,Kidbrooke with Hornfair,E05000223
+4,Eltham North,E05000218
+4,Charlton,E05000216
+4,Woolwich Common,E05000229
+4,Plumstead,E05000226
+4,Glyndon,E05000221
+4,Thamesmead Moorings,E05000228
+4,Abbey Wood,E05000214
+4,Longlands,E05000078
+4,Blackfen and Lamorbey,E05000066
+2,Cray Meadows,E05000072
+4,Sidcup,E05000083
+2,St. Mary's,E05000081
+4,Crayford,E05000071
+2,North End,E05000079
+4,Erith,E05000075
+4,Belvedere,E05000065
+2,Thamesmead East,E05000084
+4,Falconwood and Welling,E05000076
+4,East Wickham,E05000074
+4,Blendon and Penhill,E05000067
+4,Danson Park,E05000073
+4,Christchurch,E05000069
+4,St. Michael's,E05000082
+4,Brampton,E05000068
+4,Northumberland Heath,E05000080
+4,Barnehurst,E05000064
+4,Colyers,E05000070
+4,Lesnes Abbey,E05000077
+2,Chase,E05000195
+4,Winchmore Hill,E05000213
+2,Cockfosters,E05000196
+2,Highlands,E05000202
+4,Upper Edmonton,E05000212
+3,Palmers Green,E05000205
+4,Edmonton Green,E05000197
+4,Lower Edmonton,E05000204
+4,Grange,E05000200
+4,Jubilee,E05000203
+4,Ponders End,E05000206
+4,Enfield Highway,E05000198
+4,Bowes,E05000193
+4,Southgate Green,E05000209
+4,Southgate,E05000208
+4,Haselbury,E05000201
+4,Bush Hill Park,E05000194
+4,Town,E05000210
+4,Southbury,E05000207
+4,Turkey Street,E05000211
+4,Enfield Lock,E05000199
+1,Leyton,E05000604
+1,High Street,E05000599
+1,Higham Hill,E05000600
+1,Valley,E05000607
+2,Chingford Green,E05000593
+1,Cathall,E05000591
+1,Lea Bridge,E05000603
+1,Markhouse,E05000606
+1,Grove Green,E05000596
+1,Forest,E05000595
+1,William Morris,E05000608
+1,Hoe Street,E05000601
+1,Wood Street,E05000609
+1,Chapel End,E05000592
+1,Hale End and Highams Park,E05000597
+1,Cann Hall,E05000590
+1,Larkswood,E05000602
+1,Endlebury,E05000594
+1,Hatch Lane,E05000598
+1,Leytonstone,E05000605
+1,Wanstead,E05000515
+1,Cranbrook,E05000502
+1,Newbury,E05000510
+1,Roding,E05000511
+1,Fairlop,E05000503
+1,Goodmayes,E05000505
+2,Aldborough,E05000495
+1,Bridge,E05000497
+2,Hainault,E05000506
+1,Loxford,E05000507
+3,Clementswood,E05000501
+1,Mayfield,E05000508
+1,Valentines,E05000514
+1,Seven Kings,E05000512
+1,Snaresbrook,E05000513
+1,Clayhall,E05000500
+1,Church End,E05000499
+1,Barkingside,E05000496
+1,Fullwell,E05000504
+1,Chadwell,E05000498
+1,Monkhams,E05000509
+2,Carshalton South and Clockhouse,E05000559
+2,Cheam,E05000560
+2,Beddington South,E05000556
+3,St. Helier,E05000562
+1,Wandle Valley,E05000571
+1,Belmont,E05000557
+1,Nonsuch,E05000561
+1,Worcester Park,E05000572
+1,Sutton South,E05000566
+1,Sutton West,E05000567
+3,Sutton Central,E05000564
+1,Carshalton Central,E05000558
+1,Sutton North,E05000565
+1,Stonecot,E05000563
+1,The Wrythe,E05000568
+1,Wallington South,E05000570
+1,Wallington North,E05000569
+2,Beddington North,E05000555
+2,Hampton,E05000520
+1,Teddington,E05000530
+1,Hampton Wick,E05000522
+1,Heathfield,E05000523
+1,Twickenham Riverside,E05000531
+2,"Ham, Petersham and Richmond Riverside",E05000519
+1,North Richmond,E05000526
+1,Kew,E05000524
+2,East Sheen,E05000517
+1,Mortlake and Barnes Common,E05000525
+1,Hampton North,E05000521
+1,Fulwell and Hampton Hill,E05000518
+1,West Twickenham,E05000532
+1,Whitton,E05000533
+1,South Twickenham,E05000529
+3,St. Margarets and North Twickenham,E05000527
+1,South Richmond,E05000528
+2,Barnes,E05000516
+1,Cannon Hill,E05000456
+1,Cricket Green,E05000458
+1,Village,E05000472
+1,Wimbledon Park,E05000474
+1,Lower Morden,E05000465
+4,West Barnes,E05000473
+1,Raynes Park,E05000469
+1,Dundonald,E05000459
+1,St. Helier,E05000470
+3,Ravensbury,E05000468
+1,Merton Park,E05000466
+3,Abbey,E05000455
+3,Figge's Marsh,E05000460
+1,Pollards Hill,E05000467
+1,Graveney,E05000461
+1,Longthornton,E05000464
+1,Hillside,E05000462
+1,Trinity,E05000471
+1,Lavender Fields,E05000463
+3,Colliers Wood,E05000457
+1,Roehampton and Putney Heath,E05000621
+1,Thamesfield,E05000625
+1,Wandsworth Common,E05000627
+1,West Hill,E05000628
+1,West Putney,E05000629
+3,East Putney,E05000613
+1,Graveney,E05000616
+1,Tooting,E05000626
+1,Southfields,E05000624
+1,Earlsfield,E05000612
+1,Nightingale,E05000618
+1,Furzedown,E05000615
+2,Bedford,E05000611
+1,Balham,E05000610
+3,Fairfield,E05000614
+1,Northcote,E05000619
+3,Latchmere,E05000617
+1,St. Mary's Park,E05000622
+1,Queenstown,E05000620
+1,Shaftesbury,E05000623
+4,Palace Riverside,E05000259
+3,Munster,E05000257
+4,Sands End,E05000262
+3,Parsons Green and Walham,E05000260
+3,Fulham Broadway,E05000254
+3,Ravenscourt Park,E05000261
+3,Hammersmith Broadway,E05000256
+3,Avonmore and Brook Green,E05000252
+3,Askew,E05000251
+3,Wormholt and White City,E05000265
+3,Shepherd's Bush Green,E05000263
+2,College Park and Old Oak,E05000253
+3,Town,E05000264
+1,Fulham Reach,E05000255
+3,North End,E05000258
+3,Addison,E05000250
+3,Cremorne,E05000387
+3,Holland,E05000391
+3,Norland,E05000392
+1,Golborne,E05000389
+3,Redcliffe,E05000396
+3,Stanley,E05000399
+1,Royal Hospital,E05000397
+3,Brompton,E05000383
+3,Abingdon,E05000382
+3,Pembridge,E05000394
+3,Notting Barns,E05000393
+3,Colville,E05000385
+1,St. Charles,E05000398
+3,Earl's Court,E05000388
+3,Courtfield,E05000386
+3,Queen's Gate,E05000395
+3,Hans Town,E05000390
+1,Campden,E05000384
+3,St. James's,E05000644
+3,Lancaster Gate,E05000638
+1,Knightsbridge and Belgravia,E05000637
+3,Hyde Park,E05000636
+3,Churchill,E05000633
+1,Vincent Square,E05000646
+3,West End,E05000649
+1,Harrow Road,E05000635
+3,Bryanston and Dorset Square,E05000632
+1,Regent's Park,E05000643
+1,Abbey Road,E05000630
+3,Marylebone High Street,E05000641
+1,Queen's Park,E05000642
+3,Bayswater,E05000631
+3,Warwick,E05000647
+1,Tachbrook,E05000645
+1,Westbourne,E05000648
+1,Little Venice,E05000639
+1,Maida Vale,E05000640
+3,Church Street,E05000634
+4,Swiss Cottage,E05000144
+4,Highgate,E05000137
+1,Kilburn,E05000140
+3,Bloomsbury,E05000129
+0,Holborn and Covent Garden,E05000138
+4,St. Pancras and Somers Town,E05000143
+3,Camden Town with Primrose Hill,E05000130
+1,Cantelowes,E05000131
+3,King's Cross,E05000141
+4,Fortune Green,E05000132
+4,Frognal and Fitzjohns,E05000133
+1,Gospel Oak,E05000134
+4,Hampstead Town,E05000135
+1,Kentish Town,E05000139
+4,West Hampstead,E05000145
+3,Belsize,E05000128
+1,Haverstock,E05000136
+3,Regent's Park,E05000142
+1,Millwall,E05000583
+1,Blackwall and Cubitt Town,E05000575
+1,Shadwell,E05000586
+1,St. Katharine's and Wapping,E05000585
+1,Limehouse,E05000580
+3,Bethnal Green South,E05000574
+1,Mile End and Globe Town,E05000581
+3,Bethnal Green North,E05000573
+1,St. Dunstan's and Stepney Green,E05000584
+1,Mile End East,E05000582
+3,East India and Lansbury,E05000579
+1,Bromley-by-Bow,E05000578
+1,Bow West,E05000577
+1,Bow East,E05000576
+3,Whitechapel,E05000589
+3,Spitalfields and Banglatown,E05000587
+3,Weavers,E05000588
+3,Clerkenwell,E05000370
+1,Caledonian,E05000368
+3,St. Mary's,E05000379
+1,Holloway,E05000375
+1,Highbury East,E05000372
+1,Highbury West,E05000373
+1,Tollington,E05000381
+3,Bunhill,E05000367
+3,St. Peter's,E05000380
+1,Canonbury,E05000369
+1,Barnsbury,E05000366
+1,St. George's,E05000378
+1,Junction,E05000376
+1,Finsbury Park,E05000371
+1,Hillrise,E05000374
+1,Mildmay,E05000377
+3,Haggerston,E05000239
+4,Brownswood,E05000231
+3,De Beauvoir,E05000236
+3,Queensbridge,E05000245
+3,Wick,E05000249
+3,Dalston,E05000235
+3,Stoke Newington Central,E05000247
+3,Hackney Downs,E05000238
+4,Leabridge,E05000242
+3,New River,E05000244
+3,Cazenove,E05000232
+4,King's Park,E05000241
+3,Hoxton,E05000240
+3,Victoria,E05000248
+3,Hackney Central,E05000237
+3,Chatham,E05000233
+3,Clissold,E05000234
+4,Lordship,E05000243
+4,Springfield,E05000246
+4,Highgate,E05000272
+4,Harringay,E05000271
+4,Fortis Green,E05000270
+4,Bounds Green,E05000267
+4,Crouch End,E05000269
+4,Stroud Green,E05000279
+4,Muswell Hill,E05000274
+4,Hornsey,E05000273
+2,Alexandra,E05000266
+4,Noel Park,E05000275
+4,Woodside,E05000284
+3,St. Ann's,E05000277
+4,Seven Sisters,E05000278
+4,Tottenham Green,E05000280
+4,West Green,E05000282
+4,Tottenham Hale,E05000281
+4,White Hart Lane,E05000283
+3,Bruce Grove,E05000268
+4,Northumberland Park,E05000276
+1,Royal Docks,E05000491
+1,Canning Town North,E05000477
+2,Beckton,E05000475
+1,East Ham South,E05000482
+1,Stratford and New Town,E05000492
+3,Canning Town South,E05000478
+1,Custom House,E05000479
+1,Plaistow South,E05000490
+1,West Ham,E05000494
+1,Plaistow North,E05000489
+1,Forest Gate South,E05000484
+1,Boleyn,E05000476
+1,East Ham Central,E05000480
+1,Green Street West,E05000486
+1,Green Street East,E05000485
+1,East Ham North,E05000481
+1,Wall End,E05000493
+1,Forest Gate North,E05000483
+1,Manor Park,E05000488
+1,Little Ilford,E05000487
+3,Gascoigne,E05000032
+2,Thames,E05000039
+2,River,E05000038
+2,Village,E05000041
+3,Abbey,E05000026
+4,Longbridge,E05000035
+4,Eastbury,E05000031
+4,Goresbrook,E05000033
+4,Mayesbrook,E05000036
+4,Becontree,E05000028
+4,Alibon,E05000027
+4,Valence,E05000040
+4,Heath,E05000034
+4,Whalebone,E05000042
+4,Eastbrook,E05000030
+4,Chadwell Heath,E05000029
+4,Parsloes,E05000037
+0,Castle Baynard,E05000010
+3,Farringdon Without,E05000018
+0,Farringdon Within,E05000017
+3,Cripplegate,E05000015
+0,Langbourn,E05000019
+3,Tower,E05000023
+0,Bishopsgate,E05000005
+0,Queenhithe,E05000022
+0,Vintry,E05000024
+0,Cordwainer,E05000013
+0,Bread Street,E05000006
+0,Cheap,E05000011
+3,Bassishaw,E05000003
+0,Aldersgate,E05000001
+0,Dowgate,E05000016
+0,Bridge,E05000007
+3,Billingsgate,E05000004
+0,Walbrook,E05000025
+0,Cornhill,E05000014
+3,Lime Street,E05000020
+3,Aldgate,E05000002
+0,Broad Street,E05000008
+3,Coleman Street,E05000012
+0,Portsoken,E05000021
+0,Candlewick,E05000009
