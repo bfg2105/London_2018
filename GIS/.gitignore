@@ -1,0 +1,13 @@
+# GIS files
+
+*.dbf
+*.prj
+*.qpj
+*.shx
+*.pgw
+
+**/*.dbf
+**/*.prj
+**/*.qpj
+**/*.shx
+**/*.pgw
